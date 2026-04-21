@@ -1,7 +1,7 @@
 import boto3
 
 # Your S3 bucket name
-bucket_name = "your-bucket-name"
+bucket_name = "shankar-bucket-21-4"
 
 # Create S3 client
 s3 = boto3.client(
